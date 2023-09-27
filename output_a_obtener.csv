@@ -1,0 +1,51 @@
+,id,age,job,marital,education,default,housing,loan,contact,month,day_of_week,duration,campaign,pdays,previous,poutcome,emp.var.rate,cons.price.idx,cons.conf.idx,euribor3m,nr.employed,y
+2292,2292,51 years,entrepreneur,divorced,university degree,no,yes,no,telephone,may,monday,231,1,999,1,failure,-1.8,92.893,-46.2,1.299,5099.1,no
+1536,1536,37 years,management,married,university degree,no,yes,no,cellular,august,tuesday,263,2,999,0,not existent,1.4,93.444,-36.1,4.968,5228.1,no
+4047,4047,38 years,blue-collar,married,basic 4y, ,no,no,telephone,june,wednesday,95,2,999,0,not existent,1.4,94.465,-41.8,4.959,5228.1,no
+3862,3862,52 years,technician,married,professional course,no,yes,no,cellular,november,friday,495,1,3,1,success,-3.4,92.649,-30.1,0.714,5017.5,yes
+1340,1340,32 years,admin.,married,university degree,no,yes,no,cellular,august,wednesday,428,4,999,0,not existent,1.4,93.444,-36.1,4.964,5228.1,no
+3686,3686,45 years,technician,married,basic 9y, ,no,no,cellular,november,friday,174,1,999,0,not existent,-0.1,93.2,-42.0,4.021,5195.8,no
+1565,1565,38 years,admin.,single,university degree,no,yes,no,telephone,july,monday,195,2,999,0,not existent,-2.9,92.469,-33.6,0.914,5076.2,no
+3186,3186,54 years,admin.,married,high school, ,yes,no,telephone,june,monday,490,12,999,0,not existent,1.4,94.465,-41.8,4.865,5228.1,no
+3588,3588,30 years,admin.,divorced,university degree,no,no,yes,cellular,november,tuesday,198,1,999,0,not existent,-0.1,93.2,-42.0,4.153,5195.8,no
+3441,3441,41 years,admin.,divorced,high school,no,no,no,telephone,may,monday,177,4,999,0,not existent,1.1,93.994,-36.4,4.857,5191.0,no
+3111,3111,31 years,self-employed,divorced,university degree,no, , ,cellular,july,thursday,262,1,999,0,not existent,1.4,93.918,-42.7,4.958,5228.1,no
+2410,2410,33 years,self-employed,divorced,basic 9y,no,yes,no,telephone,may,tuesday,355,1,999,0,not existent,1.1,93.994,-36.4,4.856,5191.0,no
+2799,2799,46 years,services,married,high school,no,no,no,cellular,july,thursday,92,1,999,0,not existent,1.4,93.918,-42.7,4.968,5228.1,no
+1343,1343,43 years,management,divorced,high school,no,yes,no,cellular,november,monday,488,2,999,0,not existent,-0.1,93.2,-42.0,4.191,5195.8,no
+3437,3437,35 years,blue-collar,married,basic 9y,no,no,no,cellular,july,wednesday,1259,6,999,0,not existent,1.4,93.918,-42.7,4.963,5228.1,no
+3948,3948,54 years,blue-collar,married,basic 6y, ,no,no,cellular,november,wednesday,300,5,999,1,failure,-0.1,93.2,-42.0,4.12,5195.8,no
+257,257,57 years,blue-collar,married,unknown, ,yes,no,telephone,may,tuesday,473,2,999,0,not existent,1.1,93.994,-36.4,4.856,5191.0,no
+2156,2156,51 years,technician,divorced,high school,no,yes,no,cellular,november,monday,81,1,999,0,not existent,-0.1,93.2,-42.0,4.191,5195.8,no
+1125,1125,31 years,management,single,university degree,no,yes,no,cellular,may,thursday,165,2,999,0,not existent,-1.8,92.893,-46.2,1.266,5099.1,no
+541,541,30 years,technician,single,university degree, ,yes,no,cellular,august,thursday,103,2,999,0,not existent,1.4,93.444,-36.1,4.968,5228.1,no
+3103,3103,37 years,technician,married,professional course, ,yes,no,telephone,may,friday,200,3,999,0,not existent,1.1,93.994,-36.4,4.855,5191.0,no
+1550,1550,36 years,blue-collar,married,high school,no,no,no,telephone,may,monday,286,1,999,0,not existent,1.1,93.994,-36.4,4.857,5191.0,no
+1926,1926,49 years,blue-collar,married,basic 9y,no,no,no,telephone,may,tuesday,199,4,999,0,not existent,1.1,93.994,-36.4,4.856,5191.0,no
+2729,2729,47 years,technician,single,university degree,no,no,no,cellular,april,friday,115,2,999,0,not existent,-1.8,93.075,-47.1,1.405,5099.1,no
+1503,1503,47 years,technician,divorced,high school,no,yes,no,cellular,july,thursday,303,3,999,0,not existent,1.4,93.918,-42.7,4.962,5228.1,no
+2112,2112,27 years,technician,married,university degree,no,yes,no,cellular,may,friday,131,3,999,0,not existent,-1.8,92.893,-46.2,1.25,5099.1,no
+4026,4026,26 years,admin.,single,high school,no,yes,yes,cellular,july,wednesday,668,1,999,0,not existent,1.4,93.918,-42.7,4.962,5228.1,no
+3338,3338,52 years,self-employed,single,professional course,no,no,yes,cellular,november,thursday,139,1,999,0,not existent,-0.1,93.2,-42.0,4.076,5195.8,no
+2619,2619,30 years,blue-collar,married,basic 9y,no,yes,no,cellular,july,wednesday,219,1,999,0,not existent,1.4,93.918,-42.7,4.962,5228.1,no
+3637,3637,36 years,admin.,married,university degree,no,yes,no,cellular,may,tuesday,196,1,999,0,not existent,-1.8,93.876,-40.0,0.697,5008.7,yes
+1034,1034,31 years,management,married,basic 9y,no,no,yes,telephone,may,wednesday,161,2,999,0,not existent,1.1,93.994,-36.4,4.858,5191.0,no
+3321,3321,41 years,blue-collar,divorced,basic 6y,no,yes,no,telephone,may,friday,160,2,999,0,not existent,1.1,93.994,-36.4,4.857,5191.0,no
+2010,2010,31 years,blue-collar,married,basic 9y,no,no,no,cellular,july,wednesday,715,1,999,0,not existent,1.4,93.918,-42.7,4.957,5228.1,no
+3287,3287,35 years,technician,divorced,professional course,no,yes,no,telephone,june,thursday,312,2,999,0,not existent,1.4,94.465,-41.8,4.958,5228.1,no
+3886,3886,52 years,technician,married,high school, ,no,no,telephone,may,wednesday,68,1,999,0,not existent,1.1,93.994,-36.4,4.858,5191.0,no
+2662,2662,33 years,management,married,university degree,no,no,no,cellular,august,monday,191,3,999,0,not existent,1.4,93.444,-36.1,4.965,5228.1,no
+1361,1361,36 years,admin.,single,high school,no,yes,no,cellular,april,friday,413,2,999,0,not existent,-1.8,93.075,-47.1,1.405,5099.1,no
+3567,3567,53 years,blue-collar,married,basic 4y, ,yes,no,cellular,august,thursday,446,1,999,0,not existent,1.4,93.444,-36.1,4.968,5228.1,no
+2562,2562,49 years,admin.,married,university degree,no,no,no,cellular,november,tuesday,163,1,999,1,failure,-0.1,93.2,-42.0,4.153,5195.8,no
+1807,1807,57 years,retired,single,basic 4y,no,yes,no,telephone,june,thursday,107,1,999,0,not existent,1.4,94.465,-41.8,4.961,5228.1,no
+3430,3430,55 years,blue-collar,married,basic 9y, ,yes,no,cellular,august,monday,304,4,999,0,not existent,1.4,93.444,-36.1,4.965,5228.1,no
+1659,1659,55 years,blue-collar,divorced,basic 4y, ,no,no,cellular,may,wednesday,130,1,999,1,failure,-1.8,92.893,-46.2,1.281,5099.1,no
+2196,2196,30 years,admin.,married,high school,no,no,no,cellular,may,wednesday,166,1,999,1,failure,-1.8,92.893,-46.2,1.281,5099.1,no
+1287,1287,40 years,services,single,high school,no,no,no,cellular,may,wednesday,197,1,999,0,not existent,-1.8,92.893,-46.2,1.334,5099.1,no
+1635,1635,43 years,technician,married,professional course,no,no,no,telephone,may,friday,265,2,999,0,not existent,1.1,93.994,-36.4,4.864,5191.0,no
+865,865,38 years,technician,married,university degree, ,no,no,telephone,may,thursday,257,2,999,0,not existent,1.1,93.994,-36.4,4.855,5191.0,no
+3912,3912,41 years,blue-collar,married,basic 6y, ,yes,no,telephone,may,friday,160,6,999,0,not existent,1.1,93.994,-36.4,4.859,5191.0,no
+2388,2388,35 years,technician,married,high school,no,no,no,telephone,may,wednesday,208,3,999,0,not existent,1.1,93.994,-36.4,4.858,5191.0,no
+3017,3017,31 years,admin.,single,university degree,no,yes,no,cellular,august,wednesday,138,2,999,0,not existent,1.4,93.444,-36.1,4.964,5228.1,no
+996,996,30 years,entrepreneur,married,high school,no,yes,no,cellular,november,wednesday,164,3,999,0,not existent,-0.1,93.2,-42.0,4.12,5195.8,no
